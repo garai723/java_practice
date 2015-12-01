@@ -1,4 +1,8 @@
-﻿ public class Plactice { 
+﻿ /**
+ テキスト1章　練習問題
+ */
+ 
+ public class Plactice { 
   public static void main(String[]args){
 	int a = 3 ;
 	int b = 5 ;
