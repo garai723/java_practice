@@ -1,4 +1,9 @@
-﻿ public class MyStudyA {
+﻿  /**
+   java　テキスト2章問題１
+    */
+ 
+ 
+ public class MyStudyA {
   public static void main(String[]args){
 	int x = 5;
 	int y = 10;
